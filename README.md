@@ -1,5 +1,17 @@
 ### 洞见流（InsightFlow）
 
+## 产品logo
+<div align="center">
+    <img src="logo.png" width="400">
+</div>
+
+## 产品设计
+<div align="center">
+    <img src="app_design_1.png" width="400" style="margin-right: 10px;">
+    <img src="app_design_2.png" width="400">
+</div>
+
+
 ### 产品概述：
 
 洞见流是一个创新性的工具，专为非技术用户设计，帮助企业员工轻松访问和分析其云数据库中的数据，而无需深入了解SQL查询语句或数据分析技能。结合先进的自然语言生成模型和可视化图表，洞见流可以根据用户的需求提取和呈现关键数据，从而加速决策过程，提高生产力。
